@@ -6,4 +6,3 @@ Utilizei :
 - CSS
 - JavaScript
 
-https://paulagmborges.github.io/Verificador-de-idade/
